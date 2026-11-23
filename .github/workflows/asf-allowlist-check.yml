@@ -43,4 +43,4 @@ jobs:
       with:
         persist-credentials: false
     # Intentionally unpinned to always use the latest allowlist from the ASF.
-    - uses: apache/infrastructure-actions/allowlist-check@main
+    - uses: apache/infrastructure-actions/allowlist-check@d45948337452b136df24ee7d3d876a5acc4e7ff8 # main
